@@ -22,3 +22,7 @@ Computer Engineering graduate interested in software development, game developme
 
 - 🖥️ Retro XP Portfolio Website
 - 🖥️ More Website Templates — Coming Soon
+
+## 🧪 Git Playground
+
+Currently learning Git by experimenting with branches, commits and merges.
